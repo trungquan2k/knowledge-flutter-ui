@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">fluent_ui</h1>
+  <h1 align="center">Knowledge Flutter UI</h1>
   <p align="center" >
     <a title="Discord" href="https://discord.gg/674gpDQUVq">
       <img src="https://img.shields.io/discord/809528329337962516?label=discord&logo=discord" />
@@ -20,8 +20,6 @@
 </div>
 
 Unofficial implementation of Fluent UI for [Flutter](flutter.dev). It's written based on the [official documentation](https://docs.microsoft.com/en-us/windows/uwp/design/)
-
-### You can check the web version of it [here](https://bdlukaa.github.io/fluent_ui/)
 
 ### Content
 
